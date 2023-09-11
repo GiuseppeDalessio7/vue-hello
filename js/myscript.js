@@ -11,7 +11,9 @@ Aggiungere alla pagina un’immagine, presa anch’essa inserendo il percoso in 
   createApp({
     data() {
       return {
-        title : "Ciao , ti aiuterò con Vue Js"
+        title : "Ciao , ti aiuterò con Vue Js",
+        myImg : "https://picsum.photos/450/450"
+        
       }
     }
   }).mount('#app')
