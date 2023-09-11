@@ -12,7 +12,7 @@ Aggiungere alla pagina un’immagine, presa anch’essa inserendo il percoso in 
     data() {
       return {
         title : "Ciao , ti aiuterò con Vue Js",
-        myImg : "https://picsum.photos/450/450"
+        myImg : "https://picsum.photos/1920/980"
         
       }
     }
